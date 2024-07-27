@@ -1,0 +1,4 @@
+tamil	python	50000
+surya	java	40000
+vicky	c++	30000
+rabin	c	20000
